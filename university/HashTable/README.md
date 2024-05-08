@@ -1,0 +1,1 @@
+Low-level realization of Hash Table using single linked arrays for dealing with collissions, written on c++.

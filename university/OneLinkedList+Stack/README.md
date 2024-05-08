@@ -1,0 +1,1 @@
+Low-level realization of OneLinkedList and stack, written on c++. data.txt is input for OneLinkedList
